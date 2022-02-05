@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MedTrack</string>
+    <string name="copyright">Copyright &#169; MedTrack Ltd 2022</string>
+    <string name="about_text">Track the nearest medical center near your location for medical assistance.</string>
+    <string name="developer">Developer Details:</string>
+    <string name="mainDeveloper">Muhammad Ikhmal Hakim Bin Mohamad Yusri (2019256434)</string>
+    <string name="assistanceDeveloper">Ahmad Tasnim Bin Muhamad Azlan (2019475884)</string>
+    <string name="editor1">Khaleda Rafieka Binti Khailmi (2019206878)</string>
+    <string name="editor2">Muhammed Syafiq Bin Affandy (2019311739)</string>
+    <string name="editor3">Muhammad Iqbal Bin Iskak (2019563735)</string>
+    <string name="title_activity_maps">Maps Activity</string>
+    <string name="myText"> <a href= "https://github.com/Tasnimazlan/medTrack
+"> Link to Github </a> </string>
+</resources>
